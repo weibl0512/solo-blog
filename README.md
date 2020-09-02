@@ -1,4 +1,4 @@
-<p align="center"><img alt="昏黄のすみ" src="https://static.b3log.org/images/brand/solo-128.png"></p><h2 align="center">
+<p align="center"><img alt="昏黄のすみ" src="https://solo--blog.oss-cn-shenzhen.aliyuncs.com/images/cat5.jpg"></p><h2 align="center">
 昏黄のすみ
 </h2>
 
